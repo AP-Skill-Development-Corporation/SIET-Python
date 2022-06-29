@@ -1,0 +1,84 @@
+Day-01[27-06-2022]:
+===================
+
+
+	C 
+	dyclassroom.com
+	beginnersbook.com
+	programmiz.com
+	sanfoundry.com
+	geeksforgeeks
+	tutorialspoint.com
+	javatpoint
+
+
+	Good Morning to All...
+
+	Python:
+	======
+	=> python.org
+	=> downloads
+		=> windows
+		=> stable release
+		=> pre release
+
+	=> Stable release
+	=> cntrl + f => search
+		=> python 3.7.5
+	=> windows x86-64 executeable installer
+	=> windows x86 executeable installer
+	=> download
+
+
+	Python Installation:
+	====================
+	=> After download a file we had doubel clicked the file for further installation process
+		=> Install Now
+		=> customize installation
+		=> install for all users
+		=> add pythob path
+	=> click on next to install for further steps
+
+	Python Check:
+	=============
+	=> cmd
+	=> python -V
+
+	Execution of Python program:
+	============================
+	- Basic Procedure [Notepad,Interpreter]
+	- Advanced Editors
+	- IDLE
+	- Jupyter Notebook
+
+	Basic Procedure:
+	================
+	=> Notepad 
+	=> Interpreter
+	=> cmd
+	=> save a file with .py extension
+	=> open the file path by using command prompt
+	=> to execute a file we need to pass the command as 
+		=> python "filename.py"
+		If the file is opening in other apps we need to mention as python andd then filename
+	=> If the file is displaying as python icon then we can directly execute the file as
+		=> filename.py
+
+	Advanced Editors:
+	=================
+	=> sublime,notepad++,atom,editplus,geany etc.,
+	=> sublime => cntr+b => to execute a python file
+
+	IDLE:
+	=====
+	Integrated Development for Learning Environment
+	=> f5 => to execute a program
+
+	Pip Checking:
+	=============
+	=> cmd
+	=> pip -V
+	
+	Jupyter Notebook:
+	=================
+
